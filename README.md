@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Regina
 
-![Anime Read GIF]([https://media.tenor.com/your-direct-gif-link.gif](https://tenor.com/en-GB/view/anime-read-reading-grimoire-frieren-gif-12437894112082444410))
+![Anime Read GIF](https://tenor.com/en-GB/view/anime-read-reading-grimoire-frieren-gif-12437894112082444410)
 
 
 <!--
