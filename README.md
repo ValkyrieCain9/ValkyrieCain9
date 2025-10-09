@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Regina
 <p align="center" style="font-size:18px">
   <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" /><br><br>
-  <h6>I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.</h6>
+  I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.
 </p>
 
 ## Projects
