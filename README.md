@@ -3,7 +3,10 @@
   <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" /><br><br>
   I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.
 </p>
-
+##
+⚔ ###VinLOD Saga
+🧭 ###Far FroMM HoMMe
+🐍 ###4BytesTheBullet
 
 <!--
 **ValkyrieCain9/ValkyrieCain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
