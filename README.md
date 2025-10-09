@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Regina
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="40%" style="border: none;">
       I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="60%" style="border: none;">
       <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" width="100%">
     </td>
   </tr>
