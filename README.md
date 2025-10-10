@@ -7,20 +7,28 @@ I’m currently studying and MA in Digital Humanities and Digital Knowledge at t
 ## Projects
 
 ### 🎼 Martini and Friends
-A prototype of an [interactive walk](https://a-touch-of-music.github.io/MartiniAndFriends/) through the Museo internazionale e Biblioteca della Musica in Bologna, where you will get the chance to talk with and learn from some of the greatest composers in music history. The prototype was created with Twine Harlowe. 
+A prototype of an [interactive walk](https://a-touch-of-music.github.io/MartiniAndFriends/) through the Museo internazionale e Biblioteca della Musica in Bologna, where you will get the chance to talk with and learn from some of the greatest composers in music history. 
+
+Skills used: Twine Harlowe, HTML, CSS
 
 ### 🧭 Far FroMM HoMMe
 [Far From Home](https://far-fromm-homme.github.io/Far-FroMM-HoMMe/) is an digital exhibition bringing together 20 artworks from around the world all centred around the meaning of home. which explores the many ideas and concept of home. The featured artworks are found in a variety of musuems and art instituations from around the world. It uses front-end languages to contruct the exhibitions interface and backend technologies which connect the various metadata into a single uniform standard. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+Skills used: HTML, CSS, Javascript, Python, JSON, XML
 
 ### ⚔ VinLOD Saga
+### [![VinLOD Saga Logo](https://github.com/VinLOD-Saga/VinLOD-Saga/blob/main/assets/img/Vinlod_logo_small.png)](https://vinlod-saga.github.io/VinLOD-Saga/)
+**VinLOD Saga** 
 [VinLOD Saga](https://vinlod-saga.github.io/VinLOD-Saga/) is a linked-open data project which brings together ten diverse cultural heritage objects, all conceptually linked to the anime and manga Vinland Saga. Explore the cultural echoes behind these artifacts and join us on a journey through Norse legends, ancient symbols, and timeless stories brought to life through heritage.
+
+Skills used: RDF TTL, TEI XML, XSLT, Python, HTML, CSS
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 ### 🐍 4BytesTheBullet
 This project works with scholarly journal article data and creates a structure for uploading and querying said data to both a relational database with SQL and a triplestore with SPARQL. 
+
+Skills used: Python, SPARQL, Blazegraph
 <!--
 **ValkyrieCain9/ValkyrieCain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
