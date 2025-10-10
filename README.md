@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Regina
 <p align="center" style="font-size:18px">
-  <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" /><br><br>
+  <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" width="500"/><br><br>
 I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.
 </p>
 
@@ -17,15 +17,9 @@ Skills used: Twine Harlowe, HTML, CSS
 Skills used: HTML, CSS, Javascript, Python, JSON, XML
 
 ### ⚔ VinLOD Saga
-<p>
-  <img src="https://github.com/VinLOD-Saga/VinLOD-Saga/blob/main/assets/img/Vinlod_logo_small.png" alt="VinLOD Saga Logo" width="100"/><h3>VinLOD Saga</h3>
-</p>
-
 [VinLOD Saga](https://vinlod-saga.github.io/VinLOD-Saga/) is a linked-open data project which brings together ten diverse cultural heritage objects, all conceptually linked to the anime and manga Vinland Saga. Explore the cultural echoes behind these artifacts and join us on a journey through Norse legends, ancient symbols, and timeless stories brought to life through heritage.
 
 Skills used: RDF TTL, TEI XML, XSLT, Python, HTML, CSS
-
-[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 ### 🐍 4BytesTheBullet
 This project works with scholarly journal article data and creates a structure for uploading and querying said data to both a relational database with SQL and a triplestore with SPARQL. 
