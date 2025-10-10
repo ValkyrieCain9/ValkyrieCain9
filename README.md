@@ -7,6 +7,9 @@
 ## Projects
 
 ### ⚔ VinLOD Saga
+VinLOD Saga is a linked-open data project which brings together ten diverse cultural heritage objects, all conceptually linked to the anime and manga Vinland Saga. Explore the cultural echoes behind these artifacts and join us on a journey through Norse legends, ancient symbols, and timeless stories brought to life through heritage.
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 ### 🧭 Far FroMM HoMMe
 Far From Home is an digital exhibition which explores the many ideas and concept of home. The featured artworks are found in a variety of musuems and art instituations from around the world. It uses front-end languages to contruct the exhibitions interface and backend technologies which connect the various metadata into a single uniform standard. 
