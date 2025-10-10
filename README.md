@@ -17,9 +17,10 @@ Skills used: Twine Harlowe, HTML, CSS
 Skills used: HTML, CSS, Javascript, Python, JSON, XML
 
 ### ⚔ VinLOD Saga
-<a href="https://vinlod-saga.github.io/VinLOD-Saga/">
-  <img src="https://github.com/VinLOD-Saga/VinLOD-Saga/blob/main/assets/img/Vinlod_logo_small.png" alt="VinLOD Saga Logo" width="100"/>
-</a>
+<p>
+  <img src="https://github.com/VinLOD-Saga/VinLOD-Saga/blob/main/assets/img/Vinlod_logo_small.png" alt="VinLOD Saga Logo" width="100"/><h3>VinLOD Saga</h3>
+</p>
+
 [VinLOD Saga](https://vinlod-saga.github.io/VinLOD-Saga/) is a linked-open data project which brings together ten diverse cultural heritage objects, all conceptually linked to the anime and manga Vinland Saga. Explore the cultural echoes behind these artifacts and join us on a journey through Norse legends, ancient symbols, and timeless stories brought to life through heritage.
 
 Skills used: RDF TTL, TEI XML, XSLT, Python, HTML, CSS
