@@ -11,6 +11,8 @@
 ### 🧭 Far FroMM HoMMe
 Far From Home is an digital exhibition which explores the many ideas and concept of home. The featured artworks are found in a variety of musuems and art instituations from around the world. It uses front-end languages to contruct the exhibitions interface and backend technologies which connect the various metadata into a single uniform standard. 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🐍 4BytesTheBullet
 
 <!--
