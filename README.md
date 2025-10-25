@@ -2,11 +2,8 @@
 <p align="center" style="font-size:18px">
   <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" width="500"/><br><br>
   I’m currently completing a Master's degree in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an     interest in data science, linked open data and the semantic web.
-
   When I'm not working on projects you can find me reading, watching anime, listening to music or going on walks to do some photography.
-
   Below you can find some of my recent projects which have given me the chance to combine my computational studies with my humanities and arts interests.
-
 </p>
 
 ## Projects
