@@ -1,13 +1,18 @@
 # Hi there 👋 I'm Regina
 <p align="center" style="font-size:18px">
   <img src="https://media1.tenor.com/m/rJxGy9CYwHoAAAAd/anime-read.gif" alt="Anime Read GIF" width="500"/><br><br>
-I’m currently studying and MA in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an interest in data science, linked open data and the semantic web. You can find some of my recent projects below.
+  I’m currently completing a Master's degree in Digital Humanities and Digital Knowledge at the University of Bologna. I am a programmer at heart, with an     interest in data science, linked open data and the semantic web.
+
+  When I'm not working on projects you can find me reading, watching anime, listening to music or going on walks to do some photography.
+
+  Below you can find some of my recent projects which have given me the chance to combine my computational studies with my humanities and arts interests.
+
 </p>
 
 ## Projects
 
 ### 🎼 Martini and Friends
-A prototype of an [interactive walk](https://a-touch-of-music.github.io/MartiniAndFriends/) through the Museo internazionale e Biblioteca della Musica in Bologna, where you will get the chance to talk with and learn from some of the greatest composers in music history. 
+A prototype of an [interactive walk](https://a-touch-of-music.github.io/MartiniAndFriends/) through the Museo Internazionale e Biblioteca della Musica in Bologna, where you will get the chance to talk with and learn from some of the greatest composers in music history. 
 
 Skills used: Twine Harlowe, HTML, CSS
 
